@@ -32,8 +32,6 @@ O cliente poderá entrar no sistema e apenas visualizar suas dívidas com:
 - valor final de cada parcela com sua data de vencimento
 - telefone de orientação para ligar e negociar com um colaborador.
 
-Esse foi um projeto simples, porém com um desafio de manipular **listas**, utilizando as várias features presentes no **Array** do JS.
-
 API para este projeto: [Acesse Aqui!](https://github.com/NaoshiAC/paschoalotto-backend)
 
 
