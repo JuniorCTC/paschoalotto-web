@@ -1,6 +1,7 @@
 <p align="center" width="100%">
-    <img src="https://www.paschoalotto.com.br/wp-content/themes/Paschoalotto-08-2018/home/img/logo.png" alt="icons" align="center" />
+    <img src="src/images/logo.png" alt="" align="center"/>
 </p>
+
 <p width="100%" align="center">
 <a href="https://br.linkedin.com/in/naoshi-arimori-624763173">
 <img alt="Feito por" src="https://img.shields.io/badge/Feito%20por-Naoshi%20Arimori-blue">
