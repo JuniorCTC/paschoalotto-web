@@ -1,0 +1,44 @@
+aside.app-topbar {
+  position: absolute;
+  width: 100%;
+  height: 40px;
+  left: 0px;
+  top: 0px;
+  padding: 28px 24px;
+  background: linear-gradient(90deg, #1370CD 10.97%, #105DA9 100%);
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+aside.app-topbar footer button {
+  width: 38px;
+  height: 38px;
+
+  border: 0;
+
+  background: #4788ff;
+  border-radius: 16px;
+
+  cursor: pointer;
+
+  transition: background-color 0.2s;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+aside.app-topbar footer a:hover,
+aside.app-topbar footer button:hover {
+  background: #5c95ff;
+}
+
+aside.app-topbar span {
+  font-weight: bold;
+  font-size: 21;
+  line-height: 34px;
+  color: #fff;
+}
